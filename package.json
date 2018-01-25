@@ -16,7 +16,8 @@
     "url": "https://github.com/hxdegawa/hxdegawa.com/issues"
   },
   "homepage": "https://github.com/hxdegawa/hxdegawa.com#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "harp": "^0.25.0"
   }
 }

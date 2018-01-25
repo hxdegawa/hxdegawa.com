@@ -1,0 +1,22 @@
+{
+  "name": "hxdegawa.com",
+  "version": "1.0.0",
+  "description": "hxdegawa's site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxdegawa/hxdegawa.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxdegawa/hxdegawa.com/issues"
+  },
+  "homepage": "https://github.com/hxdegawa/hxdegawa.com#readme",
+  "dependencies": {
+    "harp": "^0.25.0"
+  }
+}

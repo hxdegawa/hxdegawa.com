@@ -1,0 +1,40 @@
+header{
+  position: fixed;
+  width: 100%;
+  height: 80px;
+  background-color: #fafafa;
+  z-index: 1;
+  
+  
+  ul{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    max-width: $break-large;
+    
+    *{
+      line-height: 80px;
+    }
+    
+    img{
+//      height: 1.4em;
+      max-width: 120px;
+      object-fit: contain;
+    }
+    
+    a{
+      text-decoration: none;
+      color: #212121;
+      
+      li{
+        font-family: 'Klee';
+        list-style: none;
+        font-size: 1.1em;
+      }
+    }
+  }
+}

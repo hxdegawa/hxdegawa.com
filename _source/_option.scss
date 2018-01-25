@@ -1,0 +1,13 @@
+[class*="-container"]{
+  max-width: $break-large;
+  
+  margin: 0px auto;
+}
+
+.free-width{
+  max-width: none !important;
+}
+
+.shadow{
+  box-shadow: 1px 1px 6px #d6d6d6;
+}
